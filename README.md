@@ -5,7 +5,7 @@ This Challenge combines financial Python programming skills with the unsupervise
 
 The CSV file provided contains price change data of cryptocurrencies in different periods.
 
-The steps for this challenge are broken out into the following sections:
+**The steps for this challenge are broken out into the following sections:**
 
 *Import the Data (provided in the starter code)*
 
@@ -22,3 +22,19 @@ The steps for this challenge are broken out into the following sections:
 *Cluster the Cryptocurrencies with K-means Using the PCA Data*
 
 *Visualize and Compare the Results*
+
+
+**Technologies**
+
+The following libraries are used in this analysis:  
+
+  * pandas  
+  * path
+  * hvplot
+  * sklearn.cluster (KMeans)  
+  * sklearn.decomposition (PCA)
+  * sklearn.preprocessing (StandardScaler)
+
+**Contributors**
+
+This project has been done independently with support from this weeks soled exercises.
